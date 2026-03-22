@@ -1,0 +1,15 @@
+@import '@fontsource/noto-sans-tamil';
+
+
+@media print {
+  .no-print { display: none !important; }
+  body * { visibility: hidden; }
+  #bill-print, #bill-print * { visibility: visible; }
+  #bill-print { position: absolute; left: 0; top: 0; }
+}
+
+
+
+/* ── Thermal Print ── */
+#thermal-bill { display: none; }
+
