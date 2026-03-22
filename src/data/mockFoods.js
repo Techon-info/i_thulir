@@ -1,4 +1,4 @@
-export const menuData = [
+export let menuData = [
   {
     id: 1,
     category: "Breakfast & Tiffin",
