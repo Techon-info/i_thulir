@@ -204,8 +204,8 @@ export default function MainLayout({ children }) {
         <div style={s.logoArea}>
           <div style={s.logoBox}>IT</div>
           <div style={s.brandWrap}>
-            <div style={s.brandName}>I Thulir POS</div>
-            <div style={s.brandSub}>I துளிர் உணவகம்</div>
+            <div style={s.brandName}>Techon POS</div>
+            {/* <div style={s.brandSub}>I துளிர் உணவகம்</div> */}
           </div>
         </div>
 
