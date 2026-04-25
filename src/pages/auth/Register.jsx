@@ -109,7 +109,7 @@ export default function Register() {
         <div style={s.cardTop}>
           <div style={s.logoBox}>IT</div>
           <div style={s.appName}>Create Account</div>
-          <div style={s.appSub}>I Thulir POS · I துளிர் உணவகம்</div>
+          <div style={s.appSub}>Techon POS </div>
         </div>
 
         <div style={s.body}>
