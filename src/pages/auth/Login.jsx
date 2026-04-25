@@ -109,8 +109,8 @@ export default function Login() {
         <div style={s.body}>
           {/* Demo credentials hint */}
           <div style={s.hintBox}>
-            <div style={s.hintRow}><strong>Admin:</strong> admin@ithulir.com · any password</div>
-            <div style={{ ...s.hintRow, marginBottom: 0 }}><strong>Cashier:</strong> cashier@ithulir.com · any password</div>
+            <div style={s.hintRow}><strong>Admin:</strong> admin@techon.com · any password</div>
+            <div style={{ ...s.hintRow, marginBottom: 0 }}><strong>Cashier:</strong> cashier@techon.com · any password</div>
           </div>
 
           <form onSubmit={handleLogin}>
