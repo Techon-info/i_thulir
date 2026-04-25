@@ -102,8 +102,8 @@ export default function Login() {
         {/* Top gradient header */}
         <div style={s.cardTop}>
           <div style={s.logoBox}>IT</div>
-          <div style={s.appName}>I Thulir POS</div>
-          <div style={s.appSub}>I துளிர் உணவகம் · Tharamangalam</div>
+          <div style={s.appName}>Techon POS</div>
+          {/* <div style={s.appSub}>I துளிர் உணவகம் · Tharamangalam</div> */}
         </div>
 
         <div style={s.body}>
